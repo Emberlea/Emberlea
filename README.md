@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Emberlea
-- 👀 I’m interested in coding, animating on FlipaClip, watching videos by Sir Fluff (go check them out on Youtube), reading, and writing stories.
+- 👋 Hi, I’m @TheVictorianMystery
+- 👀 I’m interested in coding, animating on FlipaClip, reading, and writing stories.
 - 🌱 I’m currently learning HTML and Javascript
 
 <!---
